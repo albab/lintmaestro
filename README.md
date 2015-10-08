@@ -2,6 +2,8 @@ lintmaestro
 ============
 Sample app to show how to lint your javascript files as you save them. 
 
+![Alt text](https://github.com/albab/lintmaestro/tree/master/app/assets/images/preview.png "Lint")
+
 I like this setup a lot because you can create additional tasks for pretty much anything and it's a safe alternative from the "tab hell" I've been experiencing with collaborative Makefiles.
 
 First make sure you have npm installed and these packages install correctly:  
