@@ -1,6 +1,6 @@
 lintmaestro
 ============
-Lightweight option to lint your javascript files as you save them. 
+Sample app to show how to lint your javascript files as you save them. 
 
 I like this setup a lot because you can create additional tasks for pretty much anything and it's a safe alternative from the "tab hell" I've been experiencing with collaborative Makefiles.
 
